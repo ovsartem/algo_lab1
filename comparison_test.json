@@ -1,0 +1,236 @@
+{
+    "7": {
+        "first": {
+            "insertion sort": 635,
+            "selection sort": 640,
+            "merge sort": 11045,
+            "shell sort": 5118
+        },
+        "second": {
+            "insertion sort": 127,
+            "selection sort": 128,
+            "merge sort": 4154,
+            "shell sort": 461
+        },
+        "third": {
+            "insertion sort": 127,
+            "selection sort": 128,
+            "merge sort": 4602,
+            "shell sort": 731
+        },
+        "fourth": {
+            "insertion sort": 381,
+            "selection sort": 384,
+            "merge sort": 17951,
+            "shell sort": 1903
+        }
+    },
+    "8": {
+        "first": {
+            "insertion sort": 1275,
+            "selection sort": 1280,
+            "merge sort": 59388,
+            "shell sort": 12456
+        },
+        "second": {
+            "insertion sort": 255,
+            "selection sort": 256,
+            "merge sort": 16410,
+            "shell sort": 1101
+        },
+        "third": {
+            "insertion sort": 255,
+            "selection sort": 256,
+            "merge sort": 17434,
+            "shell sort": 1806
+        },
+        "fourth": {
+            "insertion sort": 765,
+            "selection sort": 768,
+            "merge sort": 62007,
+            "shell sort": 4410
+        }
+    },
+    "9": {
+        "first": {
+            "insertion sort": 2555,
+            "selection sort": 2560,
+            "merge sort": 170971,
+            "shell sort": 29789
+        },
+        "second": {
+            "insertion sort": 511,
+            "selection sort": 512,
+            "merge sort": 44529,
+            "shell sort": 2529
+        },
+        "third": {
+            "insertion sort": 511,
+            "selection sort": 512,
+            "merge sort": 46833,
+            "shell sort": 3972
+        },
+        "fourth": {
+            "insertion sort": 1533,
+            "selection sort": 1536,
+            "merge sort": 162564,
+            "shell sort": 9980
+        }
+    },
+    "10": {
+        "first": {
+            "insertion sort": 5115,
+            "selection sort": 5120,
+            "merge sort": 423758,
+            "shell sort": 70303
+        },
+        "second": {
+            "insertion sort": 1023,
+            "selection sort": 1024,
+            "merge sort": 107997,
+            "shell sort": 5601
+        },
+        "third": {
+            "insertion sort": 1023,
+            "selection sort": 1024,
+            "merge sort": 113117,
+            "shell sort": 8912
+        },
+        "fourth": {
+            "insertion sort": 3069,
+            "selection sort": 3072,
+            "merge sort": 388578,
+            "shell sort": 21467
+        }
+    },
+    "11": {
+        "first": {
+            "insertion sort": 10235,
+            "selection sort": 10240,
+            "merge sort": 988004,
+            "shell sort": 170124
+        },
+        "second": {
+            "insertion sort": 2047,
+            "selection sort": 2048,
+            "merge sort": 249134,
+            "shell sort": 12700
+        },
+        "third": {
+            "insertion sort": 2047,
+            "selection sort": 2048,
+            "merge sort": 260398,
+            "shell sort": 19890
+        },
+        "fourth": {
+            "insertion sort": 6141,
+            "selection sort": 6144,
+            "merge sort": 890382,
+            "shell sort": 48034
+        }
+    },
+    "12": {
+        "first": {
+            "insertion sort": 20475,
+            "selection sort": 20480,
+            "merge sort": 2234713,
+            "shell sort": 388942
+        },
+        "second": {
+            "insertion sort": 4095,
+            "selection sort": 4096,
+            "merge sort": 560383,
+            "shell sort": 27852
+        },
+        "third": {
+            "insertion sort": 4095,
+            "selection sort": 4096,
+            "merge sort": 584959,
+            "shell sort": 41751
+        },
+        "fourth": {
+            "insertion sort": 12285,
+            "selection sort": 12288,
+            "merge sort": 1994622,
+            "shell sort": 103882
+        }
+    },
+    "13": {
+        "first": {
+            "insertion sort": 40955,
+            "selection sort": 40960,
+            "merge sort": 4966815,
+            "shell sort": 904485
+        },
+        "second": {
+            "insertion sort": 8191,
+            "selection sort": 8192,
+            "merge sort": 1240658,
+            "shell sort": 60620
+        },
+        "third": {
+            "insertion sort": 8191,
+            "selection sort": 8192,
+            "merge sort": 1293906,
+            "shell sort": 88085
+        },
+        "fourth": {
+            "insertion sort": 24573,
+            "selection sort": 24576,
+            "merge sort": 4404834,
+            "shell sort": 222170
+        }
+    },
+    "14": {
+        "first": {
+            "insertion sort": 81915,
+            "selection sort": 81920,
+            "merge sort": 10905352,
+            "shell sort": 2159634
+        },
+        "second": {
+            "insertion sort": 16383,
+            "selection sort": 16384,
+            "merge sort": 2716461,
+            "shell sort": 132699
+        },
+        "third": {
+            "insertion sort": 16383,
+            "selection sort": 16384,
+            "merge sort": 2831149,
+            "shell sort": 228066
+        },
+        "fourth": {
+            "insertion sort": 49149,
+            "selection sort": 49152,
+            "merge sort": 9629018,
+            "shell sort": 479240
+        }
+    },
+    "15": {
+        "first": {
+            "insertion sort": 163835,
+            "selection sort": 163840,
+            "merge sort": 23746141,
+            "shell sort": 4898051
+        },
+        "second": {
+            "insertion sort": 32767,
+            "selection sort": 32768,
+            "merge sort": 5902139,
+            "shell sort": 283399
+        },
+        "third": {
+            "insertion sort": 32767,
+            "selection sort": 32768,
+            "merge sort": 6147899,
+            "shell sort": 464177
+        },
+        "fourth": {
+            "insertion sort": 98301,
+            "selection sort": 98304,
+            "merge sort": 20881164,
+            "shell sort": 1023118
+        }
+    }
+}
