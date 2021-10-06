@@ -1,4 +1,4 @@
-from comparison import selection_sort, insertion_sort, merge_sort, shell_sort, merge_counter
+from main import selection_sort, insertion_sort, merge_sort, shell_sort, merge_counter
 import random
 import json
 import time
