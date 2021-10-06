@@ -98,4 +98,3 @@ def merge_sort(array):
     return counter
 
 
-print(merge_sort([1, 3, 4, 3, 4]))
